@@ -2,7 +2,7 @@
 #### I am a software developer
 I am currently looking for my first programming job. I started learning over a year ago after finding out that coding is a great carrer path for me since I really enjoy solving problems, challenging myself and learning new thing.
 
-Visit my online portfolio at adamdunowski.pl
+## Visit my online portfolio at adamdunowski.pl
 
 Skills: JS / ReactJS / Sass / HTML / CSS / GIT
 
