@@ -2,10 +2,12 @@
 #### I am a software developer
 I am currently looking for my first programming job. I started learning over a year ago after finding out that coding is a great carrer path for me since I really enjoy solving problems, challenging myself and learning new thing.
 
-Skills: JS / HTML / CSS / GIT
+Visit my online portfolio at adamdunowski.pl
 
-- 🔭 I’m currently working on improving my skills 
-- 🌱 I’m currently learning Node js
+Skills: JS / ReactJS / Sass / HTML / CSS / GIT
+
+- 🔭 I’m currently working on my next project
+- 🌱 I’m currently practicing ReactJS
 - ⚡ Fun fact: I am private pilot license holder 
 
 
