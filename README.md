@@ -5,7 +5,7 @@ I am currently looking for my first programming job. I started learning over a y
 ### Visit my online portfolio with all my projects at https://adamdunowski.pl
 
 
-Skills: JS / ReactJS / Sass / HTML / CSS / GIT
+Skills: JS / ReactJS / Sass / HTML / CSS / ThreeJS / GIT
 
 - 🔭 I’m currently working on my next project
 - 🌱 I’m currently practicing ReactJS
