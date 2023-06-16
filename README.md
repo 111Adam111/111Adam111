@@ -5,10 +5,10 @@ I am currently looking for my first programming job. I started learning over a y
 ### Visit my online portfolio with all my projects at https://adamdunowski.pl
 
 
-Skills: Javascript / React / NextJS / Typescript / Sass / HTML / CSS / ThreeJS / GIT
+Skills: Javascript / React / NextJS / Typescript / Material UI / Sass / HTML / CSS / ThreeJS / GIT
 
 - 🔭 I’m currently working on my next project
-- 🌱 I’m currently learning Material UI and Authentication
+- 🌱 I’m currently learning Authentication
 - ⚡ Fun fact: I am private pilot license holder 
 
 
