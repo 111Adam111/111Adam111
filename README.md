@@ -8,7 +8,7 @@ I am currently looking for my first programming job. I started learning over a y
 Skills: Javascript / React / NextJS / Typescript / Material UI / Sass / HTML / CSS / ThreeJS / GIT
 
 - 🔭 I’m currently working on my next project
-- 🌱 I’m currently learning Authentication
+- 🌱 I’m currently learning Authentication and Redux
 - ⚡ Fun fact: I am private pilot license holder 
 
 
